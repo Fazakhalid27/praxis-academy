@@ -1,0 +1,5 @@
+equip_id |    type    | color  | location  | install_date 
+----------+------------+--------+-----------+--------------
+        1 | holahop    | blue   | south     | 2020-01-19
+        2 | Bola bekel | yellow | northwest | 2020-01-18
+(2 rows)
